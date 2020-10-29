@@ -3,6 +3,6 @@ EmployeesDB Manager is business application that enables easy CRUD manipulation 
 The code is written in Java (using Hibernate persistance framework).
 COMMENT: To test this application, you you'll have to create a database (MySQL)!
 
-![Main window](https://s32.postimg.org/diewgt1w5/Employees_DBHibernate.jpg)
+![](pics/EmployeesDBHibernate.jpg)
 
 All suggestions are welcome!
